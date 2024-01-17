@@ -3,7 +3,7 @@ console.log('Is this working?');
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://public.tableau.com/shared/8H5DC6NRC?:display_count=n&:origin=viz_share_link";
+const url = "https://public.tableau.com/shared/4ZYG9WCG4?:display_count=n&:origin=viz_share_link";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
