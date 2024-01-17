@@ -2,10 +2,10 @@
 
 **Objective:**
 The objective of this analysis is to aid XYZ, a private equity firm, in making an informed investment decision within the competitive cab industry. Leveraging data sets encompassing transaction details, customer demographics, payment modes, and city statistics, the analysis focuses on extracting actionable insights.
-![1](https://github.com/yashjagdale0207/Cab_Investment_Analysis_Tableau/assets/145290827/89c0269e-7dbf-47ea-8929-75b8544cd894)
-![2](https://github.com/yashjagdale0207/Cab_Investment_Analysis_Tableau/assets/145290827/6d08e70f-63f7-49a4-be57-463541faa842)
-![3](https://github.com/yashjagdale0207/Cab_Investment_Analysis_Tableau/assets/145290827/af583a27-06cb-4f1f-aed8-291d28db82b5)
-![4](https://github.com/yashjagdale0207/Cab_Investment_Analysis_Tableau/assets/145290827/0128548d-d033-4e28-9017-08b0dd6c11db)
+![1](https://github.com/yashjagdale0207/Cab_Investment_Analysis_Tableau/assets/145290827/cf4ee042-892e-4cc8-ac7d-8744f7f94a05)
+![2](https://github.com/yashjagdale0207/Cab_Investment_Analysis_Tableau/assets/145290827/15b44e3a-518d-4f61-af2b-f635d9c1f88e)
+![3](https://github.com/yashjagdale0207/Cab_Investment_Analysis_Tableau/assets/145290827/de50d8f3-4946-413d-b6ae-590c6ba7f6b2)
+![4](https://github.com/yashjagdale0207/Cab_Investment_Analysis_Tableau/assets/145290827/bd912652-3d27-4535-b203-be633e330b5a)
 **Key Insights:**
 1. **User Distribution:** Black cab exhibits a higher user base during the specified period.
 2. **Margin Dynamics:** The study explores the correlation between margin and customer growth.
